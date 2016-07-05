@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[In My Head]]></title>
+        <description><![CDATA[In My Head]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 00:39:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In Which I Participate in a Standoff and the Police are Less Than Appreciative.</p>]]></description>
+            <link>undefinedin-which-i-participate-in-a-standoff-and-the-police-are-less/index.html</link>
+            <guid isPermaLink="false">f353c5c1-0ab3-4322-ae97-968b1ac3ea65</guid>
+            <pubDate>Tue, 05 Jul 2016 00:39:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
