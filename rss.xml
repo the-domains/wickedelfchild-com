@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[In My Head]]></title>
         <description><![CDATA[In My Head]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wickedelfchild-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 00:39:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Aug 2016 01:30:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wickedelfchild-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>In Which I Participate in a Standoff and the Police are Less Than Appreciative.</p>]]></description>
-            <link>undefinedin-which-i-participate-in-a-standoff-and-the-police-are-less/index.html</link>
-            <guid isPermaLink="false">f353c5c1-0ab3-4322-ae97-968b1ac3ea65</guid>
-            <pubDate>Tue, 05 Jul 2016 00:39:43 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c16b0a-89ad-4af4-81ff-3bb41412bd6a.jpg">]]></description>
+            <link>https://thegrid.ai/wickedelfchild-com/c50c5338-92ba-4d5a-a9c7-5eafd6820e42/index.html</link>
+            <guid isPermaLink="false">c50c5338-92ba-4d5a-a9c7-5eafd6820e42</guid>
+            <pubDate>Mon, 22 Aug 2016 04:43:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
