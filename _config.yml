@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9a20ca4-e646-4f50-b2a0-6f36b5bdf347.jpg
 name: wickedelfchild.com
 cta:
   domain: null
@@ -29,6 +31,7 @@ navigation:
   - name: Publisher
     url: 'http://fantasyworkspublishing.com/anne-stinnett.html'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/11729a10-859a-4709-8c4f-bf7454a4211e.jpg
 title: In My Head
 purpose: []
