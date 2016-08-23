@@ -1,20 +1,4 @@
-name: wickedelfchild.com
-favicon: null
-layout_spectrum: 0.60442
 typography_spectrum: 0.29683
-title: In My Head
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fbaaec'
@@ -26,4 +10,25 @@ color:
   lightness: 0.8455386471468955
   saturation: 0.27579381968826056
   rhythmicContrast: 0.6786097730509937
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.60442
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: wickedelfchild.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: taylor
+navigation:
+  - name: Publisher
+    url: 'http://fantasyworkspublishing.com/anne-stinnett.html'
+    type: external
+favicon: null
+title: In My Head
 purpose: []
