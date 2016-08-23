@@ -1,23 +1,24 @@
 ---
+datePublished: '2016-08-23T01:30:58.500Z'
+sourcePath: >-
+  _posts/2016-07-05-in-which-i-participate-in-a-standoff-and-the-police-are-less.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
+isBasedOnUrl: null
+authors: []
+hasPage: false
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T01:30:57.679Z'
+title: ''
+publisher: {}
 description: >-
   In Which I Participate in a Standoff and the Police are Less Than
   Appreciative.
-datePublished: '2016-07-05T00:39:43.369Z'
-dateModified: '2016-07-05T00:39:42.693Z'
-title: ''
-author: []
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: >-
-  _posts/2016-07-05-in-which-i-participate-in-a-standoff-and-the-police-are-less.md
-url: in-which-i-participate-in-a-standoff-and-the-police-are-less/index.html
-_type: Article
+_type: Blurb
 
 ---
 In Which I Participate in a Standoff and the Police are Less Than Appreciative.
@@ -40,15 +41,15 @@ Now I'm in kind of a tizzy, because those pets I mentioned? There are five of th
 
 When stuff starts happening downstairs I'm obviously pleased because if they get the shootout over with no one will have to evacuate. Unless the fire happens after all.
 
-The crazy neighbor is messing around with the blinds on his sliding door which is one door over, below and across from me. Although technically that's several degrees of separation, I can actually see him really well and the thing that I notice is that he has a walker. He's not using it, he's sitting, so I think that maybe he can't get to the door like the cops have been demanding and maybe this is all a terrible, soon to be tragic misunderstanding because the poor guy can't get up. When I see he's in a wheelchair it seems like a good idea to make sure the cops have this valuable information. They were surprisingly unappreciative. Apparently they already knew. 
+The crazy neighbor is messing around with the blinds on his sliding door which is one door over, below and across from me. Although technically that's several degrees of separation, I can actually see him really well and the thing that I notice is that he has a walker. He's not using it, he's sitting, so I think that maybe he can't get to the door like the cops have been demanding and maybe this is all a terrible, soon to be tragic misunderstanding because the poor guy can't get up. When I see he's in a wheelchair it seems like a good idea to make sure the cops have this valuable information. They were surprisingly unappreciative. Apparently they already knew.
 
 Then the SWAT guy got tangled up in someone's fake Halloween spider webs which was pretty fantastic. Nothing personal SWAT guy. I feel bad because (SPOILER ALERT) I laughed before I knew no one had died, but there's not much I can do about the order of events. Although if we look at things from a quantum, time is an illusion kind of place, maybe I could do something about the order of events, but damn it Jim, this is not a science blog.
 
-Time for the end. The cops decide to pop out a window to grab the unarmed, crazy wheelchair guy, but before they can, a shot rings out. I still have no idea where it came from. No one got shot. Maybe the crazy guy let one off inside his apartment; if I find out I'll let you know. 
+Time for the end. The cops decide to pop out a window to grab the unarmed, crazy wheelchair guy, but before they can, a shot rings out. I still have no idea where it came from. No one got shot. Maybe the crazy guy let one off inside his apartment; if I find out I'll let you know.
 
-Anyway, it went something like: Gunshot. Napoleon barks. I think crazy guy killed himself and I feel really bad for referring to him in my head as crazy guy, but then crazy guy manages to slide open his patio door. Cops start yellingand advancing on crazy guy who is trying to wheel himself out the door while keeping his hands up which didn't look as easy as it sounds. Then cops drag crazy guy out of his apartment and wheelchair, which looked gentler than it sounds. 
+Anyway, it went something like: Gunshot. Napoleon barks. I think crazy guy killed himself and I feel really bad for referring to him in my head as crazy guy, but then crazy guy manages to slide open his patio door. Cops start yellingand advancing on crazy guy who is trying to wheel himself out the door while keeping his hands up which didn't look as easy as it sounds. Then cops drag crazy guy out of his apartment and wheelchair, which looked gentler than it sounds.
 
-The aftermath included handcuffs, a pat down, a search of the apartment and camaraderie between the cops themselves, which I get, and between the cops and the crazy guy, which I don't. 
+The aftermath included handcuffs, a pat down, a search of the apartment and camaraderie between the cops themselves, which I get, and between the cops and the crazy guy, which I don't.
 
 So that is basically that. And between living it and writing about it, I've lost like three hours of my day, but luckily I saved the time I would have taken thinking up a blog topic for this week. And crap, now I've come right out and admitted I plan on doing one every week, so I'm panicking a little. I'm also worried that between this blog and the last one I am coming across as kind of a bitch, so let me just say that I like puppies. A lot. I'll talk more about that next time. Not too much though, I don't like puppies in ways I shouldn't. Just in perfectly appropriate ways. I don't know if that's weird or quirky and adorable. The sentence, I mean. I'm leaving it because it's supposed to be adorable. I have to stop now. Goodnight. It's not night, but I already know I'm not accomplishing anything else today. That makes it time to drink.
 
