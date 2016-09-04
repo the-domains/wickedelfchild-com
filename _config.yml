@@ -1,4 +1,3 @@
-layout_spectrum: 0.60442
 typography_spectrum: 0.36249795765616
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.60442
 analytics:
   google: null
   facebook: null
@@ -26,10 +26,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Publisher
-    url: 'http://fantasyworkspublishing.com/anne-stinnett.html'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/11729a10-859a-4709-8c4f-bf7454a4211e.jpg
 title: In My Head
